@@ -1,0 +1,20 @@
+program ConsultaCep;
+
+uses
+  Vcl.Forms,
+  UPrincipal in 'UPrincipal.pas' {FrmConsultaCEP},
+  untDM in 'untDM.pas' {DM: TDataModule},
+  untCep in 'units\untCep.pas',
+  untExecutaSQL in 'units\untExecutaSQL.pas',
+  untBrasilAPI in 'units\untBrasilAPI.pas';
+
+{$R *.res}
+
+begin
+  ReportMemoryLeaksOnShutdown := True;
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TFrmConsultaCEP, FrmConsultaCEP);
+  Application.CreateForm(TDM, DM);
+  Application.Run;
+end.

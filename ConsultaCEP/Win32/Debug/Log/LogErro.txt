@@ -1,0 +1,51 @@
+12/04/2023 12:36:17 - Erro: [FireDAC][Phys][FB]Your user name and password are not defined. Ask your database administrator to set up a Firebird login.
+12/04/2023 12:42:06 - Erro: [FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+CEP
+At line 1, column 14
+12/04/2023 12:43:37 - Erro: [FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+CEP
+At line 1, column 14
+12/04/2023 12:44:00 - Erro: [FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+CEP
+At line 1, column 14
+12/04/2023 12:46:04 - Erro: [FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+CEP
+At line 1, column 14
+12/04/2023 12:47:22 - Erro: [FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -303
+conversion error from string ""
+12/04/2023 12:47:28 - Erro: [FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -303
+conversion error from string ""
+12/04/2023 13:35:55 - Erro: [FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -303
+conversion error from string ""
+12/04/2023 13:57:50 - Erro: Access violation at address 007451AC in module 'ConsultaCep.exe'. Read of address 00000375
+12/04/2023 14:03:04 - Erro: Access violation at address 006886D6 in module 'ConsultaCep.exe'. Read of address 00000025
+12/04/2023 14:04:43 - Erro: Access violation at address 006886D6 in module 'ConsultaCep.exe'. Read of address 00000000
+12/04/2023 14:07:44 - Erro: Access violation at address 006886D6 in module 'ConsultaCep.exe'. Read of address 00000000
+12/04/2023 14:07:51 - Erro: Access violation at address 006886D6 in module 'ConsultaCep.exe'. Read of address 00000000
+12/04/2023 14:09:38 - Erro: Access violation at address 007B8D78 in module 'ConsultaCep.exe'. Read of address 00000350
+12/04/2023 14:38:00 - Erro: [FireDAC][Phys][FB]I/O error during "CreateFile (open)" operation for file "E:\TESTES\CONSULTACEP\WIN32\DEBUG\BASE\BASE.DBD"
+Error while trying to open file
+O sistema não pode encontrar o arquivo especificado. 
+12/04/2023 14:40:05 - Erro: [FireDAC][Phys][FB]I/O error during "CreateFile (open)" operation for file "E:\TESTES\CONSULTACEP\WIN32\DEBUG\BASE\BASE.DBD"
+Error while trying to open file
+O sistema não pode encontrar o arquivo especificado. 
+12/04/2023 15:14:18 - Erro: [FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -303
+conversion error from string ""
+12/04/2023 15:14:53 - Erro: [FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -303
+conversion error from string ""
+12/04/2023 15:17:10 - Erro: [FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -303
+conversion error from string ""

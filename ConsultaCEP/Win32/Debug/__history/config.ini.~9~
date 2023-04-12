@@ -1,0 +1,4 @@
+[FIREBIRD]
+database=127.0.0.1/3051:\Base\BASE.dbd
+user='SYSDBA'
+password='alegro'

@@ -1,0 +1,45 @@
+[FIREBIRD]
+database=127.0.0.1/3051:E:\base\BASE.dbd
+[CONFIGURACAO]
+;database=eSolucaoWeb
+
+IP=bG9jYWxob3N0
+#aHR0cDovLzE2Ny44Ni45Mi45Nw==
+CNPJ=27745247000193
+USUARIO=eSolucao
+SENHA=ODU1MzQ3MzY=
+PORTA=887
+ID_EMPRESA = 1
+URL=localhost/
+#https://aplicativo.esolucao.com/
+SENHA_CERTIFICADO=MTIzNDU2
+NUMERO_SERIE=
+ASSINAR=0
+CSC=
+ID_CSC=0
+SERIE_CERTIFICADO=05A8E03B215C9FDF775695D432B591690A23327B
+
+[API]
+ NOME_API=integra
+ VERSAO_API=v1
+
+
+[CONFIG]
+usuario=ADMIN
+[IMPRESSORA]
+tipo_impressao=0
+impressora_nfce=
+impressora_nfe=Microsoft Print to PDF
+[BALANCA]
+modelo=0
+porta_serial=
+baudRate=9600
+modelo_etiqueta=0
+[ARQUIVOS]
+ArquivoXML=
+ArquivoDigitalizado=
+[CONFIG_USER]
+MostarEstoque_1=0
+MostrarValorMinimo_1=1
+MostarEstoque_4=1
+MostrarValorMinimo_4=1
